@@ -13,7 +13,7 @@
     "sourceMap": true,
     "outDir": "dist",
     "rootDir": ".",
-    "lib": ["ES2023", "DOM"],
+    "lib": ["ES2023"],
     "types": ["node"]
   },
   "include": ["index.ts", "src/**/*.ts"],
